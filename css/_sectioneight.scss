@@ -1,0 +1,59 @@
+.sectioneight{
+    background-color:rgb(246, 247, 247);
+    padding:100px 150px;
+    .image:hover{
+        transform: scale(1.15);
+        transition: 1s;
+
+    }
+    image{
+        height: 500px;
+        width:500px;
+        background-color: $bgcolor;
+        border-radius: 100%;
+    }
+    .circle{
+        position: relative;
+    }
+
+    .one .two .three .four{
+        border-radius: 30px;
+        position: absolute;
+    }
+    .one{
+        right:5rem;
+      
+      }
+      .two{
+      top: 3rem;
+      left: -1rem;
+      opacity: .5;
+      
+      }
+      .three{
+         bottom:15rem;
+        right:-14rem; 
+      
+      }
+      .four{
+        bottom:55rem;
+        left:15rem;
+        opacity: .7;
+      
+      }
+    .pic{
+        border-radius: 100%;
+        
+    }
+    .texts{
+        margin:100px 0 0 100px;
+        h3{
+            font-size:25px;
+        }}
+        .imgswas{
+            height: 40px;
+            width: 40px;
+            border-radius:100px;
+            margin-top: 20px;
+            }
+    }

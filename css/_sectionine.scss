@@ -1,0 +1,21 @@
+.sectionine{
+    background-color: $bgcolor;
+    .email{
+        border-radius:8px;
+        padding:10px;
+        width:300px;
+        height:50px;
+        border-color:white;
+      }
+      .footerr{
+        display: flex;
+        justify-content: space-between;
+        padding-inline-start: 30%;
+      }
+      ul li{
+        color:white;
+       
+      }
+      
+
+}

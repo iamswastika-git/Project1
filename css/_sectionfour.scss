@@ -1,0 +1,41 @@
+.sectionfour{
+    background-color: $white;
+    min-width: 800px;
+    padding: 100px 0;
+
+
+.boxes{
+       height: 80px;
+       width:90px;
+       padding-top:20px;      
+       text-align: center;
+       background:#fff;         
+       border-radius: 5px;
+       font-size: 2rem;
+       color:$white;
+       
+      }
+      h3{
+        font-size: 18px;
+        margin-top: 10px;
+        max-width:70%;
+       }
+       p{
+        color: #777;
+        font-size: 14px;
+        line-height: 1;
+        flex-wrap: wrap;
+       }
+       .textbox{
+        max-width:60%;
+       }
+    }
+    .fourth-cards{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap; 
+        gap: 40px;
+        margin:0 300px;
+
+    } 

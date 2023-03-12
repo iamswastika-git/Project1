@@ -1,0 +1,12 @@
+.sectionsix{
+    background-color: rgb(242, 249, 250);
+    padding: 100px 100px;
+    .container22{
+        border-left:solid $bgcolor 5px;
+        padding:10px;
+    }
+    .image:hover{
+        transform: scale(1.15);
+        transition: 1s;
+    }
+  }

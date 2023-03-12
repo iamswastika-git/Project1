@@ -1,0 +1,76 @@
+.sectiontwo{
+    background-color:$white;
+    padding:100px 100px;
+    p{
+        color: #777;
+        font-size: 14px;
+        line-height: 1;
+    }
+   
+    
+}
+.gridpart {
+    padding:50px 50px;
+    .box{
+        padding:50px 50px;
+         text-align: center;
+         border-radius: 5px;
+         background:#fff;
+         box-shadow: 0 0 3px 4px rgba(0,0,0,0.2);
+      
+    }
+    
+
+    .box h3{
+        font-size:20px;
+        color:#444;
+        margin-top:15px ;
+    }
+    .box p{
+        color: #777;
+        font-size: 14px;
+        line-height: 1;
+    }
+    
+}
+.box:hover{
+        transform: scale(1.15);
+        transition: 1s;
+}
+
+.loan_icon{
+    height:80px;
+}
+.insurance_icon{
+    height:80px;
+}
+.credit_icon{
+    height:80px;
+}
+.saving_icon{
+    height:80px;
+}
+.student_icon{
+    height:80px;
+}
+.travel_icon{
+    height:80px;
+}
+.button{
+    margin-top: 40px;
+    padding: 15px 50px;
+    font-size: large;
+    color: white;
+    background: rgba(231, 76, 130, 1);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 5px 8px 1px 0px rgba(231, 76, 130, 0.3);
+
+}
+.button:hover{
+        transform: scale(1.15);
+        transition: 1s;
+    
+    
+}
